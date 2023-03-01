@@ -1,0 +1,8 @@
+body{
+    display: flex;
+    flex-direction: column;
+    padding-left: 450px;
+}
+.con{
+    display: grid ;
+}
